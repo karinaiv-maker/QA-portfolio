@@ -21,6 +21,8 @@ My previous professional experience in international sales operations helped me 
 - Git and GitHub
 - SDLC
 - Agile and Scrum
+- Visual Studio code
+- 
 
 ## Portfolio Projects
 
