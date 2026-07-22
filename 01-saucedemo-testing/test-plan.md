@@ -34,3 +34,12 @@ The following areas are not included in this testing effort:
 - Accessibility testing
 - Mobile application testing
 - Cross-browser compatibility testing
+- ## 4. Test Environment
+
+The SauceDemo web application will be tested manually using:
+
+- Device: MacBook
+- Operating System: macOS
+- Browser: Safari
+- Internet connection: Stable Wi-Fi connection
+- Test URL: https://www.saucedemo.com/
