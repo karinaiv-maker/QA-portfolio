@@ -43,3 +43,11 @@ The SauceDemo web application will be tested manually using:
 - Browser: Safari
 - Internet connection: Stable Wi-Fi connection
 - Test URL: https://www.saucedemo.com/
+## 5. Test Types
+
+The following testing types will be performed:
+
+- Functional Testing
+- User Interface (UI) Testing
+- Positive Testing
+- Negative Testing
