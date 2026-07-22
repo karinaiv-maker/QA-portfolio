@@ -51,3 +51,36 @@ The following testing types will be performed:
 - User Interface (UI) Testing
 - Positive Testing
 - Negative Testing
+## 6. Entry Criteria
+
+Testing can begin when:
+
+- The SauceDemo application is accessible.
+- A stable internet connection is available.
+- Test user credentials are available.
+- The test environment is ready.
+- ## 7. Exit Criteria
+
+Testing is considered complete when:
+
+- All planned test scenarios have been executed.
+- All critical and high-priority defects have been reported.
+- Test results have been documented.
+- A test summary report has been completed.
+- ## 8. Deliverables
+
+The following documents will be produced during testing:
+
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Bug Reports
+- Test Summary Report
+- ## 9. Risks
+
+Possible risks include:
+
+- Temporary unavailability of the SauceDemo website.
+- Internet connection issues.
+- Changes to the application during testing.
+- Limited testing time.
