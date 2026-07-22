@@ -1,5 +1,13 @@
 # Test Plan
 
+**Project:** SauceDemo Manual Testing
+
+**Version:** 1.0
+
+**Author:** Karina Ivanova
+
+**Date:** July 2026
+
 ## 1. Objective
 
 The purpose of this test plan is to verify the core functionality of the SauceDemo web application through manual functional testing.
