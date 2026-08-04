@@ -171,3 +171,63 @@
 
 **Status:**
 - Pass
+
+## TC-009: Complete checkout with valid information
+
+**Preconditions:**
+- User is logged in.
+- A product is added to the cart.
+
+**Test Data:**
+- First Name: Test
+- Last Name: User
+- ZIP/Postal Code: 4000
+
+**Steps:**
+1. Open the cart.
+2. Click the "Checkout" button.
+3. Enter a valid first name.
+4. Enter a valid last name.
+5. Enter a valid ZIP/Postal Code.
+6. Click the "Continue" button.
+7. Review the order information.
+8. Click the "Finish" button.
+
+**Expected Result:**
+- Checkout information is accepted.
+- Order overview is displayed with the selected product and price information.
+- The order is completed successfully.
+- An order confirmation message is displayed.
+
+**Actual Result:**
+- Checkout information was accepted successfully.
+- Order overview displayed the correct product and price information.
+- The order was completed successfully.
+- Confirmation message "Thank you for your order!" was displayed.
+
+**Status:**
+- Pass
+
+- ## TC-010: Checkout with empty required fields
+
+**Preconditions:**
+- User is logged in.
+- A product is added to the cart.
+- User is on the Checkout: Your Information page.
+
+**Steps:**
+1. Leave First Name empty.
+2. Leave Last Name empty.
+3. Leave ZIP/Postal Code empty.
+4. Click the "Continue" button.
+
+**Expected Result:**
+- User is not allowed to continue to the Checkout Overview page.
+- An error message for the required First Name field is displayed.
+
+**Actual Result:**
+- User was not allowed to continue to the Checkout Overview page.
+- Error message "Error: First Name is required" was displayed.
+
+**Status:**
+- Pass
