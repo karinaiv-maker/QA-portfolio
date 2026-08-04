@@ -64,7 +64,10 @@
 - The correct product is displayed in the cart.
 
 **Actual Result:**
-- Not executed yet.
+- - Sauce Labs Backpack was successfully added to the cart.
+- The cart badge displayed "1".
+- The correct product and product information were displayed in the cart.
+
 
 **Status:**
-- Not Run
+- Pass
