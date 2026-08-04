@@ -19,10 +19,10 @@
 - Products page is displayed.
 
 **Actual Result:**
-- Not executed yet.
+- - User was successfully logged in and redirected to the Products page.
 
 **Status:**
-- Not Run
+- Pass
 ## TC-002: Login with invalid password
 
 **Preconditions:**
