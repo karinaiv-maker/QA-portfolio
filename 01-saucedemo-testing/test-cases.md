@@ -42,10 +42,11 @@
 - An error message is displayed.
 
 **Actual Result:**
-- Not executed yet.
+- - User was not logged in.
+- Error message "Epic sadface: Username and password do not match any user in this service" was displayed.
 
 **Status:**
-- Not Run
+- Pass
 - ## TC-003: Add product to cart
 
 **Preconditions:**
