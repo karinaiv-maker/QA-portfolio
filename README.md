@@ -6,7 +6,7 @@ This repository documents my practical learning and development in software test
 
 ## About Me
 
-I am a Junior QA Engineer currently completing the QA Fundamentals program at SoftUni.
+I am a Junior QA Engineer,  completed the QA Fundamentals program at SoftUni.
 
 My previous professional experience in international sales operations helped me develop strong attention to detail, analytical thinking, process-oriented work, and the ability to identify inconsistencies in business data and documentation.
 
